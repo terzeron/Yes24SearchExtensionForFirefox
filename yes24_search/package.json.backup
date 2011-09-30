@@ -1,0 +1,8 @@
+{
+  "name": "yes24searchextensionforfirefox",
+  "fullName": "Yes24SearchExtensionForFirefox",
+  "description": "an extension for Yes24.com book search",
+  "author": "terzeron@naver.com",
+  "license": "MPL 1.1",
+  "version": "0.1"
+}
